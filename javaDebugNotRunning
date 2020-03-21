@@ -1,0 +1,10 @@
+hi im new to java and im trying to run the debug and the terminal gives me this error
+bash-3.2$  /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -cp "/Users/marcosgomez/Library/Application Support/Code/User/workspaceStorage/09482a9c1fbd8f5d5b311b0d5a957a12/redhat.java/jdt_ws/1oriented_e20bf44a/bin" Main 
+hola
+
+im running this on my code 
+class Main {
+    public static void main(final String[] args) {
+        System.out.println("hola");
+    }
+}
